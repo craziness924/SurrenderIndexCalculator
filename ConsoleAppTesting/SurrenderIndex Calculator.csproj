@@ -3,6 +3,14 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Description>Calculates the Surrender Index of a punt with given values.
+
+Field position calculation code reused from this project: https://surrender-index.glitch.me/ .
+
+ Idea by Jon Bois from this video: https://www.youtube.com/watch?v=F9H9LwGmc-0.
+</Description>
+    <Authors>craziness924</Authors>
+    <Product />
   </PropertyGroup>
 
 </Project>
