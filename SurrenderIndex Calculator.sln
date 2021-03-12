@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTesting", "ConsoleAppTesting\ConsoleAppTesting.csproj", "{B3159549-5AAA-4C1A-BED4-D8E89076BA8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurrenderIndex Calculator", "ConsoleAppTesting\SurrenderIndex Calculator.csproj", "{B3159549-5AAA-4C1A-BED4-D8E89076BA8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
